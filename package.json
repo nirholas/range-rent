@@ -1,0 +1,30 @@
+{
+  "name": "range-rent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Makes a tick range something one provider holds, by renting it to them exclusively.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/range-rent.git"
+  },
+  "homepage": "https://range-rent.pages.dev",
+  "keywords": [
+    "uniswap",
+    "uniswap-v4",
+    "uniswap-hooks",
+    "defi",
+    "amm",
+    "solidity",
+    "liquidity",
+    "jit-defence",
+    "exclusivity",
+    "concentrated",
+    "no-admin"
+  ],
+  "scripts": {
+    "build": "node web/build.mjs",
+    "contracts:build": "forge build",
+    "contracts:test": "forge test"
+  }
+}
