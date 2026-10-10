@@ -1,5 +1,10 @@
 # RangeRent
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/range-rent?style=flat&logo=github)](https://github.com/nirholas/range-rent/stargazers) [![License](https://img.shields.io/github/license/nirholas/range-rent?style=flat)](https://github.com/nirholas/range-rent/blob/HEAD/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/nirholas/range-rent?style=flat)](https://github.com/nirholas/range-rent/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/range-rent/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/range-rent/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 **Makes a tick range something one provider holds, by renting it to them exclusively.**
 
 A production Uniswap v4 hook. It holds no funds and takes no fee for itself. No owner, no pause switch, no upgrade path.
@@ -128,3 +133,26 @@ Not affiliated with Uniswap Labs.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/range-rent&type=Date)](https://www.star-history.com/#nirholas/range-rent&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If range-rent saves you time, **[star it on GitHub](https://github.com/nirholas/range-rent)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=range-rent%3A%20Makes%20a%20tick%20range%20something%20one%20provider%20holds%2C%20by%20renting%20it%20to%20them%20exclusively&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frange-rent) · [Share on Bluesky](https://bsky.app/intent/compose?text=range-rent%3A%20Makes%20a%20tick%20range%20something%20one%20provider%20holds%2C%20by%20renting%20it%20to%20them%20exclusively%20https%3A%2F%2Fgithub.com%2Fnirholas%2Frange-rent) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frange-rent) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Frange-rent&t=range-rent%3A%20Makes%20a%20tick%20range%20something%20one%20provider%20holds%2C%20by%20renting%20it%20to%20them%20exclusively) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frange-rent&title=range-rent%3A%20Makes%20a%20tick%20range%20something%20one%20provider%20holds%2C%20by%20renting%20it%20to%20them%20exclusively)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/range-rent` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/range-rent/issues) or [start a discussion](https://github.com/nirholas/range-rent/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/range-rent)](https://github.com/nirholas/range-rent/graphs/contributors)
+
+<!-- /three.ws:growth -->
